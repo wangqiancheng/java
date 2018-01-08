@@ -167,6 +167,7 @@
 		
 	</dependencies>
 	
+	<!-- 解决MAVEN项目在UPDATE MAVEN之后JRE被改成1.5的问题 -->
 	<build>  
         <plugins>  
             <plugin>  
